@@ -78,6 +78,7 @@ nav .header-list {
 .header-list li a {
     text-decoration: none;
     font-size: 1.1rem;
+    font-weight: 500;
     color: var(--very-dark-blue);
 }
 
@@ -476,9 +477,9 @@ header {
     transition: transform 0.4s ease-out 0s;
  
     animation-name: fadeIn;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-timing-function: ease-in;
-    animation-delay: 1s;
+    animation-delay: 0.7s;
     animation-fill-mode: forwards;
 }
 
@@ -492,7 +493,7 @@ header {
     animation-name: fadeIn;
     animation-duration: 2s;
     animation-timing-function: ease-in;
-    animation-delay: 2s;
+    animation-delay: 0.9s;
     animation-fill-mode: forwards;
 }
 
@@ -506,7 +507,7 @@ header {
     animation-name: fadeIn;
     animation-duration: 2s;
     animation-timing-function: ease-in;
-    animation-delay: 3s;
+    animation-delay: 1s;
     animation-fill-mode: forwards;
 }
 
@@ -521,7 +522,7 @@ header {
     animation-name: fadeIn;
     animation-duration: 2s;
     animation-timing-function: ease-in;
-    animation-delay: 4s;
+    animation-delay: 2s;
     animation-fill-mode: forwards;
 }
 
@@ -536,7 +537,7 @@ footer {
     animation-name: fadeIn;
     animation-duration: 2s;
     animation-timing-function: ease-in;
-    animation-delay: 5s;
+    animation-delay: 3s;
     animation-fill-mode: forwards;
 }
 
